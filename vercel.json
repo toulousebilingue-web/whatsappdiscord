@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://communautetoulouse.appli-tolosa.workers.dev/",
-      "permanent": true
+      "destination": "https://communautetoulouse.appli-tolosa.workers.dev/"
     }
   ]
 }
